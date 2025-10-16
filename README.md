@@ -1,4 +1,4 @@
-# MiniVisor Project
+# M-Visor Project
 
 ## Overview
 M-Visor is a virtualization framework that embeds a (Ring-2 layer) inside Windows.  
